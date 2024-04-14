@@ -17,10 +17,11 @@
 
 ## Sobre o Projeto
 
-![LotoFacilGUI](imagens/LF01.png) 
-![LotoFacilGUI](imagens/LF02.png) </br>
-![LotoFacilGUI](imagens/LF03.png) 
-![LotoFacilGUI](imagens/LF04.png) </br>
+| | | | |
+|:--------:|:--------:|:--------:|:--------:|
+| ![LotoFacilGUI](imagens/LF01.png)  | ![LotoFacilGUI](imagens/LF02.png) | ![LotoFacilGUI](imagens/LF03.png) | ![LotoFacilGUI](imagens/LF04.png) |
+
+
 
 ```
 Este é um projeto de sistema de loteria desenvolvido em Java. O sistema é capaz de gerar jogos
